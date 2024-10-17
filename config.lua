@@ -4,17 +4,17 @@ Concess = {
 
 	webhooks = "",
 
-	jeveuxmarker = true, --- true = Oui | false = Non
-	jeveuxblips = true, --- true = Oui | false = Non
+	jeveuxmarker = true, --- true = ja | false = nein
+	jeveuxblips = true, --- true = ja | false = nein
 
     ------------
     ESXTrigger = "esx:getSharedObject",
     ------------
 
-    ColorMenuR = 11, -- Bannière couleur R
-    ColorMenuG = 11, -- Bannière couleur G
-    ColorMenuB = 255, -- Bannière couleur B
-    ColorMenuA = 150, -- Bannière couleur A
+    ColorMenuR = 11, -- Farbbanner R
+    ColorMenuG = 11, -- Farbbanner G
+    ColorMenuB = 255, -- Farbbanner B
+    ColorMenuA = 150, -- Farbbanner A
     MenuPositionX = 0,
     MenuPositionY = 0,
 }
